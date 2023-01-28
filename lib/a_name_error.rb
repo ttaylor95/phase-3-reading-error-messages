@@ -1,3 +1,3 @@
-"hello world"
+name_variable = "hello world"
 
-hello_world
+name_variable
